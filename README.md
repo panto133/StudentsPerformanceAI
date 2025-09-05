@@ -1,6 +1,6 @@
 # Analiza i predikcija rezultata testova (Student performance)
 
-Ovaj projekat vrši analizu rezultata veštine matematike, čitanja i pisanja koristeći dataset "Students Performance" preuzet sa Kaggle sajta.
+Ovaj projekat vrši analizu rezultata veštine matematike, čitanja i pisanja koristeći dataset "Students Performance" preuzet sa Kaggle sajta: https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
 
 ## Kako pokrenuti
 
