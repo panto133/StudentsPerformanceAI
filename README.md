@@ -13,7 +13,7 @@ Ovaj projekat vrši analizu rezultata veštine matematike, čitanja i pisanja ko
 - **Analiza (eda.ipynb)**: Jedan Jupyter fajl sa grafikonima: raspodele poena, boxplot, korelacije i par poređenja po grupama (ručak, priprema za test, roditeljsko obrazovanje…). Ideja je da se vidi ko je u proseku iznad/ispod i koliko i da se izvrši odgovarajuća analiza podataka koji dovode do nekih logičkih zaključaka.
 
 - **Treniranje modela (train.py)**  
-  Skripta koja pripremi podatke i uporedi par modela (neuronska mreža – MLP, plus još 2 jednostavnija modela). Ispiše rezultate po predmetima i sačuva najbolji model u fajl `best_model.joblib`.
+  Skripta koja pripremi podatke i uporedi par modela (neuronska mreža – MLP). Ispiše rezultate po predmetima i sačuva najbolji model u fajl `best_model.joblib`.
 
 - **Aplikacija (streamlit_app.py)**  
   Mali interfejs gde izabereš pol, ručak, pripremu, obrazovanje roditelja i grupu; klikneš „Predict” i dobiješ procenu **math / reading / writing** poena.
